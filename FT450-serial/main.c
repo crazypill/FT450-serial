@@ -1,8 +1,8 @@
 //
 //  main.c
-//  vx8-serial
+//  FT450-serial
 //
-//  Created by Alex Lelievre on 4/28/20.
+//  Created by Alex Lelievre on 10/23/20.
 //  Copyright © 2020 Far Out Labs. All rights reserved.
 //
 
